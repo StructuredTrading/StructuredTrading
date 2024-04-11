@@ -1,5 +1,7 @@
 # Sam Owen - Junior Full Stack Developer
 
+![IT crowd GIF](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=790b7611xeq8p1l5f49mhpukvfj5h3z33xlfjwrjko2vssv0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 Hello! I'm Sam, a junior full-stack web developer with a passion for coding and transforming ideas into reality. Currently wrapping up my diploma in Information Technology with a focus on full-stack web development, I am passionate about exploring the intersections of technology and finance, particularly in algorithmic trading and web development.
 
 Based in Noosa, Sunshine Coast, QLD, I’m on the lookout for opportunities to grow, collaborate, and make impactful contributions in the tech world.
