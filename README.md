@@ -1,16 +1,43 @@
-### Hi there 👋
+# Sam Owen - Junior Full Stack Developer
 
-<!--
-**StructuredTrading/StructuredTrading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Sam, a junior full-stack web developer with a passion for coding and transforming ideas into reality. Currently wrapping up my diploma in Information Technology with a focus on full-stack web development, I am passionate about exploring the intersections of technology and finance, particularly in algorithmic trading and web development.
 
-Here are some ideas to get you started:
+Based in Noosa, Sunshine Coast, QLD, I’m on the lookout for opportunities to grow, collaborate, and make impactful contributions in the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+
+### Precision Entry Technician
+A cutting-edge trading algorithm developed using Pinescript. It's designed to identify and visualize critical market structures on multiple time frames, thereby enhancing trading decisions with insights on swing highs and lows, order blocks, trading ranges, and more.
+
+### Portfolio Tracking API
+A Flask and SQLAlchemy-powered backend API that provides real-time pricing, asset management, and portfolio tracking functionalities for crypto transactions. A showcase of my skills in Python, API integration, and data management.
+
+### Sudoku Puzzler App
+A command-line Sudoku game built in Python, featuring selectable difficulty levels and random puzzle generation. This project highlights my ability to create intuitive interfaces and provide engaging user experiences.
+
+## 💻 Tech Stack
+
+- **Languages**: JavaScript, Python, HTML, CSS, Pinescript
+- **Frameworks/Libraries**: Flask, SQLAlchemy, Marshmallow
+- **Databases**: PostgreSQL
+- **Tools**: GitHub, Trello
+
+## 🌟 Soft Skills
+
+- Problem-solving
+- Excellent Communication
+- Attention to Detail
+- Teamwork and Collaboration
+- Time Management
+
+## 🎓 Education
+
+- Diploma in Information Technology (Full Stack Web Development) - Coder Academy (Graduating August 2024)
+
+## 📞 Get In Touch
+
+- **Email**: [samowen1992@hotmail.com](mailto:samowen1992@hotmail.com)
+- **LinkedIn**: [Sam Owen](https://www.linkedin.com/in/sam-owen-044631285/)
+- **GitHub**: [StructuredTrading](https://github.com/StructuredTrading)
+
+Feel free to reach out if you have any questions, proposals, or just want to connect!
