@@ -9,7 +9,7 @@ Based in Noosa, Sunshine Coast, QLD, I’m on the lookout for opportunities to g
 ### Precision Entry Technician
 A cutting-edge trading algorithm developed using Pinescript. It's designed to identify and visualize critical market structures on multiple time frames, thereby enhancing trading decisions with insights on swing highs and lows, order blocks, trading ranges, and more.
 
-### Portfolio Tracking API
+### [Portfolio Tracking API](https://github.com/StructuredTrading/Portfolio-Tracker-API)
 A Flask and SQLAlchemy-powered backend API that provides real-time pricing, asset management, and portfolio tracking functionalities for crypto transactions. A showcase of my skills in Python, API integration, and data management.
 
 ### Sudoku Puzzler App
