@@ -12,7 +12,7 @@ A cutting-edge trading algorithm developed using Pinescript. It's designed to id
 ### [Portfolio Tracking API](https://github.com/StructuredTrading/Portfolio-Tracker-API)
 A Flask and SQLAlchemy-powered backend API that provides real-time pricing, asset management, and portfolio tracking functionalities for crypto transactions. A showcase of my skills in Python, API integration, and data management.
 
-### Sudoku Puzzler App
+### [Sudoku Puzzler App](https://github.com/StructuredTrading/T1A3_TERMINAL_SUDOKU_APP)
 A command-line Sudoku game built in Python, featuring selectable difficulty levels and random puzzle generation. This project highlights my ability to create intuitive interfaces and provide engaging user experiences.
 
 ## 💻 Tech Stack
