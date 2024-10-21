@@ -19,7 +19,7 @@ A command-line Sudoku game built in Python, featuring selectable difficulty leve
 
 ## 💻 Tech Stack
 
-- **Languages**: JavaScript, Python, HTML, CSS, Pinescript
+- **Languages**: JavaScript, Python, HTML, CSS, MQL5 (MetaTrader 5), Pinescript (Tradingview)
 - **Frameworks/Libraries**: Flask, SQLAlchemy, Marshmallow
 - **Databases**: PostgreSQL
 - **Tools**: GitHub, Trello
